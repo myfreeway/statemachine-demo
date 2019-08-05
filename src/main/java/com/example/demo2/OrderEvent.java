@@ -1,0 +1,5 @@
+package com.example.demo2;
+
+public enum OrderEvent {
+	CREATE,PAY,PERFORM,COMMENT,CANCEL,PAY_OVERTIME_CANCEL,COMMENT_OVERTIME_CANCEL;
+}
